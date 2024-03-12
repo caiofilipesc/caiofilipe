@@ -24,5 +24,9 @@ para projetos inovadores no
 campo de desenvolvimento de
 sistemas. 
 
-<i class="devicon-linkedin-plain colored"></i>
+## Contatos:
+<div>
+<a href="linkedin.com/in/caio-filipe-soares-carvalho-04050b226" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 
