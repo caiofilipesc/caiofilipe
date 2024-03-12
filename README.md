@@ -32,7 +32,7 @@ sistemas.
 ![juhtawn-luka](https://github.com/caiofilipesc/caiofilipe/assets/163160656/b82109a4-149f-4fcf-8dcb-1d284e6ef7f4)
 
 
-## Estou aprendendo
+## Estou_aprendendo
 
 <img loading="lazy" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)" width="40" height="40"/>  
 
