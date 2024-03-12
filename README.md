@@ -22,4 +22,7 @@ que me permitam aplicar meu
 conhecimento e contribuir
 para projetos inovadores no
 campo de desenvolvimento de
-sistemas. 🤗
+sistemas. 
+
+<i class="devicon-linkedin-plain colored"></i>
+
