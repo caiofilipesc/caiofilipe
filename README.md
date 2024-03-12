@@ -1,6 +1,7 @@
-# Olá Devs! Me chamo Caio Filipe.
+# 👋 Hello Devs! Meu nome é Caio Filipe, bem vindo ao meu GitHub.
 
 # Um pouco sobre mim...
+
 Sou um estudante de Análise e
 Desenvolvimento de Sistemas
 altamente pró-ativo, com
