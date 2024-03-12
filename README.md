@@ -24,7 +24,8 @@ para projetos inovadores no
 campo de desenvolvimento de
 sistemas. 
 
-<div class="tenor-gif-embed" data-postid="25753519" data-share-method="host" data-aspect-ratio="1.81818" data-width="100%"><a href="https://tenor.com/view/juhtawn-luka-luka-doncic-luka-shimmy-gif-25753519">Juhtawn Luka GIF</a>from <a href="https://tenor.com/search/juhtawn-gifs">Juhtawn GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![juhtawn-luka](https://github.com/caiofilipesc/caiofilipe/assets/163160656/b82109a4-149f-4fcf-8dcb-1d284e6ef7f4)
+
 
 ## Contatos:
 <div>
