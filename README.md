@@ -11,7 +11,7 @@ anos, estou comprometido em
 me desenvolver
 profissionalmente na área de
 TI. Estou sempre buscando
-atualizações para acompanhar
+atualizações para acompanhar                        ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 as mudanças rápidas no setor.
 Sou dedicado, organizado e
 capaz de trabalhar bem tanto
